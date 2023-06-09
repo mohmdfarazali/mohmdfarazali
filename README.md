@@ -4,11 +4,7 @@ Hi 👋 My name is Mohammad Faraz Ali
 Full Stack Developer
 --------------------
 
-* I'm 4th Year B.Tech CSE student at Jamia Hamdard with a strong passion for technology and computer science. 
-* Well-versed in programming languages such as HTML, CSS, JavaScript, and proficient in utilizing frameworks like React.js for building dynamic and interactive user interfaces. 
-* Experienced in working with Next.js, a framework enabling server-side rendering and static site generation, to enhance website performance and SEO optimization. - Knowledgeable in Firebase, with the ability to integrate real-time databases, authentication, and cloud storage into web applications. 
-* Skilled in utilizing Tailwind CSS, a utility-first CSS framework, for efficient and visually appealing web design. - Proficient in deploying projects using platforms like Netlify and Vercel, ensuring seamless hosting and continuous deployment capabilities. 
-* Experienced in version control using Git and GitHub, enabling effective collaboration and code management.
+I'm 4th Year B.Tech CSE student at Jamia Hamdard with a strong passion for technology and computer science. Well-versed in programming languages such as HTML, CSS, JavaScript, and proficient in utilizing frameworks like React.js for building dynamic and interactive user interfaces. Experienced in working with Next.js, a framework enabling server-side rendering and static site generation, to enhance website performance and SEO optimization. - Knowledgeable in Firebase, with the ability to integrate real-time databases, authentication, and cloud storage into web applications. Skilled in utilizing Tailwind CSS, a utility-first CSS framework, for efficient and visually appealing web design. Proficient in deploying projects using platforms like Netlify and Vercel, ensuring seamless hosting and continuous deployment capabilities. Experienced in version control using Git and GitHub, enabling effective collaboration and code management.
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Faraz's Portfolio](http://farazali-portfolio.netlify.app/)
