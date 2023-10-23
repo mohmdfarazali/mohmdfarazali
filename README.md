@@ -40,6 +40,11 @@ I am a passionate 4th Year B.Tech CSE student at Jamia Hamdard, with a strong in
 
 ### Badges
 
+<b>Holopin Badges</b>
+
+[![An image of @mohmdfarazali's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mohmdfarazali)](https://holopin.io/@mohmdfarazali)
+
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/mohmdfarazali"><img src="https://github-readme-stats.vercel.app/api?username=mohmdfarazali&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mohmdfarazali's GitHub stats" /></a>
